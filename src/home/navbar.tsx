@@ -42,15 +42,10 @@ const NavBar: NextPage = () => {
         </a>
       </Link>
       <RightItemsContainer>
-        <a className="nav-item show-web">Templates</a>
+        {/* <a className="nav-item show-web">Templates</a>
         <a className="nav-item show-web">Recommendations</a>
-        <a className="nav-item show-web">About</a>
-        <a
-          href="https://github.com/sadanandpai/resume-builder"
-          className="icon"
-          target="_new"
-          title="Source code"
-        >
+        <a className="nav-item show-web">About</a> */}
+        <a href="https://github.com/gooyeduck" className="icon" target="_new" title="Source code">
           {getIcon('github')}
         </a>
       </RightItemsContainer>

@@ -1,11 +1,11 @@
 {
   "basics": {
-    "name": "Jane Doe",
+    "name": "Your Name",
     "label": "Frontend Developer",
     "image": "https://www.linkpicture.com/q/generated_photos_5e68893b6d3b380006f22f8b.jpg",
-    "email": "janedoe@email.com",
-    "phone": "+91 9876543210",
-    "url": "www.github.com/sadanandpai/",
+    "email": "jexample@email.com",
+    "phone": "your Phone number",
+    "url": "",
     "summary": "I am a web developer having expertise in frontend development and exposure to back- end development. I design and develop web applications using the latest technologies to deliver the product with quality code.",
     "location": {
       "address": "",
@@ -20,23 +20,23 @@
     "profiles": [
       {
         "network": "linkedin",
-        "username": "sadanandpai",
-        "url": "https://www.linkedin.com/in/sadanandpai/"
+        "username": "",
+        "url": ""
       },
       {
         "network": "github",
-        "username": "sadanandpai",
-        "url": "https://github.com/sadanandpai/"
+        "username": "",
+        "url": ""
       },
       {
         "network": "hackerrank",
-        "username": "paicube",
-        "url": "https://www.hackerrank.com/paicube/"
+        "username": "",
+        "url": ""
       },
       {
         "network": "leetcode",
-        "username": "paicube",
-        "url": "https://leetcode.com/paicube/"
+        "username": "",
+        "url": ""
       }
     ]
   },
@@ -112,28 +112,7 @@
     }
   ],
 
-  "education": [
-    {
-      "institution": "MIT, University",
-      "url": "https://www.mit.edu/",
-      "studyType": "MS",
-      "area": "Cloud technology",
-      "startDate": "2014",
-      "endDate": "2016",
-      "score": "68%",
-      "courses": []
-    },
-    {
-      "institution": "NMAMIT, Nitte",
-      "url": "https://www.mit.edu/",
-      "studyType": "B.Tech (VTU)",
-      "area": "Computer Science",
-      "startDate": "2010",
-      "endDate": "2014",
-      "score": "8.3 CGPA",
-      "courses": []
-    }
-  ],
+  "education": [],
 
   "activities": {
     "involvements": "* Prevented millions of dollars in state sales tax undercharges by initiating tests that revealed a bug in a new release of shopping cart software.\n * Isolated previously undiscovered flaw in price checking tool resulting in more competitive pricing and a 20 percent increase in revenue.\n * Implemented automated testing tools spawning more diligent levels of regression testing, negative testing, error/bug retests and usability.\n * Prevented millions of dollars in state sales tax undercharges by initiating tests that revealed a bug in a new release of shopping cart software.",
