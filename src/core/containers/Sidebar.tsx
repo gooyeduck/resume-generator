@@ -9,7 +9,7 @@ import { PrintSettings } from 'src/core/widgets/PrintSettings';
 import { useZoom } from 'src/stores/settings.store';
 import { getIcon } from 'src/styles/icons';
 import { SaveSettings } from '../widgets/SaveSettings';
-import { UploadSettings } from '../widgets/UploadSettings';
+// import { UploadSettings } from '../widgets/UploadSettings';
 import { useActivities, useEducation, useIntro, useSkills, useWork } from 'src/stores/data.store';
 
 const Wrapper = styled.div`
@@ -112,7 +112,7 @@ export const Sidebar = () => {
           <IconButton>{getIcon('reset')}</IconButton>
         </IconWrapper>
 
-        <UploadSettings />
+        {/* <UploadSettings /> */}
         <SaveSettings />
         <PrintSettings />
       </SideMenu>

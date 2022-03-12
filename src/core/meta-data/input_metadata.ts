@@ -5,7 +5,7 @@ export const INTRO_METADATA = [
     value: 'name',
   },
   {
-    label: 'Image',
+    label: 'Image Url',
     type: 'Input',
     value: 'image',
   },
